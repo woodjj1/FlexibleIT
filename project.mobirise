@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Flexible I.T. Tutorial",
-    "currentPage": "prodj.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,8 +52,6 @@
     "noImageResize": null,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
     "imageResize": true
   },
   "pages": {
